@@ -116,10 +116,10 @@ header{
   position: absolute;
   top: -100%;
 }
-.gnb li:nth-child(2) a::before{
+.gnb li:nth-child(1) a::before{
   content: 'project';
 }
-.gnb li:nth-child(3) a::before{
+.gnb li:nth-child(2) a::before{
   content: 'contact';
 }
 .gnb li:hover a{
